@@ -78,7 +78,6 @@ DOMAIN,is4.mzstatic.com
 DOMAIN,is5-ssl.mzstatic.com
 DOMAIN,is5.mzstatic.com
 DOMAIN,itunes-apple.com.akadns.net
-DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
@@ -121,3 +120,4 @@ DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,itunes.apple.com
